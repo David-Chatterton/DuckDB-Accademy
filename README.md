@@ -13,7 +13,7 @@ npm run dev
 
 Open the Vite URL printed in the terminal. This is a Vite / React / strict TypeScript application using Tailwind CSS, DuckDB-Wasm, Monaco, Recharts and React Flow. No backend, login or real bank data is required. Once installed and served, the core lesson workspace loads its DuckDB and Monaco assets from the application itself, without CDN dependencies. External documentation links need internet access.
 
-If Node is managed with `fnm`, initialise its shell environment before running npm. A Node runtime was found at `/home/david/.local/share/fnm/node-versions/v26.11.1/installation/bin/node` during implementation, although `node` and `npm` were absent from the agent's PATH.
+If using fnm to manage Node.js, ensure it is initialised in your shell before running the installation commands.
 
 ## Checks and production build
 
