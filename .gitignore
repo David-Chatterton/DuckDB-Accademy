@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.tsbuildinfo
+playwright-report/
+test-results/
+coverage/
+.env*
+training.sql
+.DS_Store
